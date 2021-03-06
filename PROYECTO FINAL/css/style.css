@@ -50,3 +50,36 @@ div#colorFondo3{
 h4#colorTexto{
     color:#02096e;
 }
+
+.img{
+    background-size: cover;
+    background-image: url(../img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg);
+}
+
+h1#colorLetras{
+    color:white;
+}
+
+.iconos{
+    font-size: 25px;
+    color:white;
+    text-align: center;
+}
+
+#icon{
+    padding-left: 3em;
+}
+
+.sigueme{
+    color:white;
+}
+
+.fondo{
+    border-radius: 3px;
+    background-color: rgb(44, 44, 49);
+}
+
+#lenguajes{
+    text-align: center;
+   font-size: 80px;
+}
