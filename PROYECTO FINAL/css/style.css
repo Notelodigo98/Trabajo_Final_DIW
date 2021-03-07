@@ -5,81 +5,88 @@
     --cuarto: #eca90c;
 }
 
-.carousel{
+.carousel {
     max-height: 450px;
 }
 
-.foto{
+.foto {
     vertical-align: middle;
 }
 
-.enlace{
-   text-decoration: none; 
-   color:rgb(177, 8, 177);
+.enlace {
+    text-decoration: none;
+    color: rgb(177, 8, 177);
 }
 
-.enlace:hover{
-    color:rgb(121, 6, 121);
+.enlace:hover {
+    color: rgb(121, 6, 121);
 }
 
-.boton{
+.boton {
     border-radius: 5px;
-    padding:0.5em;
+    padding: 0.5em;
     width: 100%;
     background-color: transparent;
-    color:white !important;
+    color: white !important;
 }
 
-.boton:hover{
-    color:#a8fcf8 !important;
+.boton:hover {
+    color: #a8fcf8 !important;
 }
 
-div#colorFondo{
-    background: linear-gradient(to right,#030d9e, #85009c);
+div#colorFondo {
+    background: linear-gradient(to right, #030d9e, #85009c);
 }
 
-h3#colorFondo2{
-    background-color:#5e046e ;
-    color:white;
+h3#colorFondo2 {
+    background-color: #5e046e;
+    color: white;
 }
 
-div#colorFondo3{
+div#colorFondo3 {
     background-color: #dff3f2;
 }
 
-h4#colorTexto{
-    color:#02096e;
+h4#colorTexto {
+    color: #02096e;
 }
 
-.img{
+.img {
     background-size: cover;
     background-image: url(../img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg);
 }
 
-h1#colorLetras{
-    color:white;
+h1#colorLetras {
+    color: white;
 }
 
-.iconos{
+.iconos {
     font-size: 25px;
-    color:white;
+    color: white;
     text-align: center;
 }
 
-#icon{
+#icon {
     padding-left: 3em;
 }
 
-.sigueme{
-    color:white;
+.sigueme {
+    color: white;
 }
 
-.fondo{
+.fondo {
     border-radius: 3px;
     background-color: rgb(44, 44, 49);
 }
 
-#lenguajes{
+#lenguajes {
     text-align: center;
-   font-size: 80px;
+    font-size: 80px;
+}
+
+#lenguaje{
+    text-align: center;
+    font-size: 80px;
+    -webkit-transform: rotate(90deg);
+
 }
